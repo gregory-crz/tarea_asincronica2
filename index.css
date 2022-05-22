@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(235, 217, 21);
+    text-align: center;
+    font-style: italic;
+    font-size: 20;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.boton {
+    border-color: chartreuse;
+    color: blue;
+    margin-right: 10px;
+    padding: 16px 32px;
+    cursor: pointer;
+    
+}
+
+.boton1 {
+    border-color: black;
+    color: red;
+    margin-left: 10px;
+    padding: 16px 32px;
+    cursor: pointer;
+}
+button{
+    
+    width: 50;
+    height: 50;
+    border-radius: 20%
+}
+img{
+    border-radius: 60%;
+    width: 60%;
+    height: auto;
+}
